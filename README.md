@@ -7,7 +7,7 @@ Ground-based air traffic controllers help planes navigate within controlled airs
 
 * **Aircraft Entry/Exit Log:** The controller would have the ability to log the landing and take-off of aircrafts, thereby keeping track of every aircraft at the airport.
 
-* **2. Addition/Removal of Flight Routes:** The controller would be able to register new flights so that they are authorized to land at the airport. The ability to remove existing flight paths would also be provided.
+* **Addition/Removal of Flight Routes:** The controller would be able to register new flights so that they are authorized to land at the airport. The ability to remove existing flight paths would also be provided.
 
 * **Landing Authorization Check:** ATC would have the ability to verify the landing of any aircraft with the help of the pre-existing flight-route database and availability of free-runways.
 
