@@ -66,10 +66,3 @@ Ground-based air traffic controllers help planes navigate within controlled airs
    the system.
 
 5. Flight Scheduler Page can be used for the following functionalities: add flights, delete already scheduled flights, view airline details.
-
-## Contributors
-* Swapnil0818 : https://github.com/Swapnil0818
-* Ishan :
-* Manav :
-* Mudit :
-* Atharv : 
